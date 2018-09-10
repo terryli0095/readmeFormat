@@ -25,8 +25,8 @@
 ## Listed Exchanges
 | Exchanges  | URL |
 | ------------- | ------------- |
-| Binance  | https://www.trueusd.com/  |
-| Bittrex  | https://www.facebook.com/TrustToken/  |
-| Upbit  | https://twitter.com/TrustToken  |
-|   | https://t.me/joinchat/HihkMkTja1gIyBRM1J1_vg  |
-
+| Binance  | https://www.binance.com/ 
+| Bittrex  | https://bittrex.com  |
+| CoinTiger  | https://www.cointiger.pro  |
+| Upbit  | https://upbit.com/  |
+| HBUS  | https://www.hbus.com/  |
