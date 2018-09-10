@@ -5,7 +5,6 @@
 
 
 ## Other Information
-| Pages  | URL |
 | ------------- | ------------- |
 | Etherscan Page | https://etherscan.io/token/0x8dd5fbce2f6a956c3022ba3663759011dd51e73e  |
 | Coinmarketcap  | https://coinmarketcap.com/currencies/true-usd/  |
@@ -13,6 +12,7 @@
 
 
 ## Social Links
+| ------------- | ------------- |
 | Website  | https://www.trueusd.com/  |
 | FaceBook  | https://www.facebook.com/TrustToken/  |
 | Twitter  | https://twitter.com/TrustToken  |
